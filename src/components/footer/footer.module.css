@@ -1,0 +1,7 @@
+.footer {
+    border-top: solid 0.5px var(--color-text-grey);
+    height: fit-content;
+    bottom: 0;
+    padding: 1rem;
+    color: var(--color-text-grey);
+}

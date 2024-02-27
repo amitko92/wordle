@@ -1,0 +1,23 @@
+
+.sideContent {
+    height: 100%;
+    padding: 0.5rem;
+}
+
+.historyContainer {
+
+    height: 100%;
+    color: var(--color-text-grey);
+}
+
+.historyRow {
+    margin: 1.5rem;
+}
+
+.historyBadge {
+
+    background-color: var(--color-a-purple);
+    color: var(--color-text-grey);
+    border-radius: 7px;
+    padding: 0.3rem;
+}
